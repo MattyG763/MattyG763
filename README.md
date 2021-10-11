@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattyG763
 - 👀 I’m interested in Programming, Learning Programming, and Game Development
-- 🌱 I’m currently learning Python and C++
+- 🌱 I’m currently learning HTML CSS and JavaScript for Web Development
 - 💞️ I’m looking to collaborate on anything at the moment to develop my skills
 - 📫 How to reach me mattyg763@gmail.com
 
