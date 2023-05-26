@@ -2,7 +2,6 @@
 - 👀 I’m interested in Programming, Learning Programming, and Game Development
 - 🌱 I’m currently learning HTML CSS and JavaScript for Web Development
 - 💞️ I’m looking to collaborate on anything at the moment to develop my skills
-- 📫 How to reach me mattyg763@gmail.com
 
 <!---
 MattyG763/MattyG763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
